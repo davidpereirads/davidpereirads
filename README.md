@@ -10,7 +10,7 @@
 <div align="center">
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davidpereirads&theme=monokai&hide_border=true&include_all_commits=false&count_private=true" />   
-  <img width="41%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpereirads&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /> <br/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpereirads&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /> <br/>
 </div>
 
 
