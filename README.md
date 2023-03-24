@@ -9,15 +9,9 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=davidpereirads&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=davidpereirads&theme=monokai&hide_border=false)<br/>
-  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davidpereirads&theme=monokai&hide_border=true&include_all_commits=false&count_private=true" />   
+  <img width="41%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpereirads&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /> <br/>
 </div>
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpereirads&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_width=700)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
