@@ -3,9 +3,7 @@
     <img style="width:40%" src="https://user-images.githubusercontent.com/107387110/227743306-2eaa3807-9b52-4e2d-a93e-9d96649ca903.png" alt="Jonah Lawrence" /></a>
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ae81ff&size=35&center=true&Center=true&width=1000&lines=HELLO,+My+name+is+David+Pereira;I'm+20+years+old;I'm+from+Brazil;I+Studying+Data+Science+and+Statistics;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AE81FF&center=true&size=22&vCenter=true&width=1000&height=30&lines=Hello!+My+name+is+David+Pereira;I'm+20+years+old;I'm+from+Brazil;I+Studying+Data+Science+and+Statistics;I'm+from+Brazil)](https://git.io/typing-svg)
 
 
 <div align="center">  
