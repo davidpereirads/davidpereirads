@@ -17,7 +17,7 @@
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Pandas" width="30" style="padding-right:10px;" src="https://user-images.githubusercontent.com/107387110/227742899-1d0499af-a301-4cc4-9820-ffce7bf5c290.svg" />
+<img align="left" alt="Pandas" width="30" style="padding-right:10px;" src="https://user-images.githubusercontent.com/107387110/227743177-357a5222-217b-4335-9abe-e84ff8136126.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -26,24 +26,8 @@
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="PowerBI" width="20px" style="padding-right:10px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/f1d4dd6cd52338a186f58bc29c437f64cf6b327b/SVG/Power-BI.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
   
-
-
-          
-
-![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![PowerBI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-
-
-
-
-
-
+</br>
 
 # 📊 GitHub Stats:
 <div align="center">
