@@ -17,7 +17,7 @@
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="C:/Users/Administrator/Downloads/Mediamodifier-Design.svg" />
+<img align="left" alt="Pandas" width="30" style="padding-right:10px;" src="https://user-images.githubusercontent.com/107387110/227742899-1d0499af-a301-4cc4-9820-ffce7bf5c290.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
