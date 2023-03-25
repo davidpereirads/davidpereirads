@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/davidpereirads">
-    <img style="width:40%" src="https://o.remove.bg/downloads/f394c2b8-3b38-4485-9e75-ee2b425c146b/David_Pereira__1_-removebg-preview.png" alt="Jonah Lawrence" /></a>
+    <img style="width:40%" src="https://user-images.githubusercontent.com/107387110/227743306-2eaa3807-9b52-4e2d-a93e-9d96649ca903.png" alt="Jonah Lawrence" /></a>
 </p>
 
 
