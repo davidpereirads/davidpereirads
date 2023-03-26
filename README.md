@@ -18,7 +18,16 @@
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="LeetCode DavidPereiraDs" src="https://user-images.githubusercontent.com/107387110/227745045-25091a66-beb0-408b-86da-6da4b62c9159.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+
 </p>
+
+<p align="center">
+      <a href="https://github.com/davidpereirads?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/davidpereirads?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/davidpereirads?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/davidpereirads?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+   </p>
 
 
 <div align="center">  
@@ -38,8 +47,13 @@
 <img align="left" alt="PowerBI" width="20px" style="padding-right:10px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/f1d4dd6cd52338a186f58bc29c437f64cf6b327b/SVG/Power-BI.svg" />
   
 </br>
+</br>
+</br>
 
-# 📊 GitHub Stats:
+
+
+
+### 📊 GitHub Stats:
 <div align="center">
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davidpereirads&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&bg_color=0d1117" />   
