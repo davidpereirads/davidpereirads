@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/davidpereirads">
+    <img src="https://user-images.githubusercontent.com/107387110/227748024-e074f9d2-a955-4349-b779-f0f7a05da915.png" alt="David Pereira" /></a>
+</p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&center=true&size=22&vCenter=true&width=1000&height=30&lines=Hello!+My+name+is+David+Pereira;I'm+20+years+old;I'm+from+Brazil;I+Studying+Data+Science+and+Statistics;I'm+from+Brazil)](https://git.io/typing-svg)
