@@ -29,8 +29,7 @@
 
 </p>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=davidpereirads&theme=monokai&bg_color=false&hide_border=true&custom_title=Data%20With%20David%20Contribution&title_color=f75c7e)](https://github.com/DaniloForti/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidpereirads&theme=monokai&bg_color=false&hide_border=true&custom_title=Data%20With%20David%20Contribution&title_color=f75c7e)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### 🧰 Languages and Tools
